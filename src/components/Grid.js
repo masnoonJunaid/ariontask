@@ -19,7 +19,6 @@ function Grid(){
     <GridStyle>
     {data.items.map((item) => (
        <div>item.slug</div>
-
      ))}
     </GridStyle>
   )
